@@ -16,5 +16,9 @@ Projeto de página de links feito do zero
 - Interface simples e direta
 - Links diretos para redes sociais
 -----
+#### :sparkles: Próximas melhorias
+- Versão Mobile
+- Integrar javascript
+-----
 #### :pushpin: Demonstração
-> https://grazyamoorim.github.io/Linktree/
+https://grazyamoorim.github.io/Linktree/
